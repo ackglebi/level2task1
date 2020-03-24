@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Places Of Interest</string>
+    <string name="placeName">TextView</string>
+    <string name="image_of_place">image of place</string>
+</resources>
